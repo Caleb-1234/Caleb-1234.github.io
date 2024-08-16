@@ -1,9 +1,10 @@
 # Caleb-1234.github.io
 
-# h1 1. test
-## h2 2. Design a webpage
-### h3 3. Add pictures
-#### h4 4. 
+# 1. Test site access
+## 2. Design a webpage
+### 2.1. Add pictures
+### 2.2 Add text
+## 3. Embed content
 
 css
 body, .usertext {
