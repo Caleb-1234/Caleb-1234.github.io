@@ -13,7 +13,7 @@ body, .usertext {
 }
 
 Footnote 1 link[^coldvians.github.io].
-
+[I'm an inline-style link](coldvians.github.io)
 Footnote 2 link[^grandeelee.github.io].
 
 Inline footnote^[Text of inline footnote] definition.
