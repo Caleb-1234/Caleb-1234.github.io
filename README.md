@@ -12,17 +12,8 @@ body, .usertext {
   font-family: Chunkfive, sans;
 }
 
-Footnote 1 link[^coldvians.github.io].
 [Google](https://www.google.com)
+
 [1](https://coldvians.github.io)
-Footnote 2 link[^https://grandeelee.github.io].
 
-Inline footnote^[Text of inline footnote] definition.
-
-Duplicated footnote reference[^second].
-
-[^first]: Footnote **can have markup**
-
-    and multiple paragraphs.
-
-[^second]: Footnote text.
+[2](https://grandeelee.github.io])
