@@ -12,5 +12,5 @@
 
 [2](https://grandeelee.github.io])
 
-Inline-style:
+
 (https://cdn1.iconfinder.com/data/icons/logos-brands-in-colors/231/among-us-player-pink-512.png)
