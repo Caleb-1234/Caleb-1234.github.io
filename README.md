@@ -12,9 +12,9 @@ body, .usertext {
   font-family: Chunkfive, sans;
 }
 
-Footnote 1 link[^first].
+Footnote 1 link[^coldvians.github.io].
 
-Footnote 2 link[^second].
+Footnote 2 link[^grandeelee.github.io].
 
 Inline footnote^[Text of inline footnote] definition.
 
