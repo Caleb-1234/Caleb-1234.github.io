@@ -6,14 +6,11 @@
 ### 2.2 Add text
 ## 3. Embed content
 
-css
-body, .usertext {
-  color: #F0F0F0; background: #600;
-  font-family: Chunkfive, sans;
-}
-
 [Google](https://www.google.com)
 
 [1](https://coldvians.github.io)
 
 [2](https://grandeelee.github.io])
+
+Inline-style:
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
